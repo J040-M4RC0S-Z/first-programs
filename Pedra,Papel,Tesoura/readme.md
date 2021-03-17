@@ -1,0 +1,1 @@
+Programa onde podemos jogar pedra, papel, tesoura de uma forma muito simples e divertida !
